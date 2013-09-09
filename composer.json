@@ -1,6 +1,7 @@
 {
     "name": "h4cc/wkhtmltoimage-amd64",
-    "description": "Convert html to image using webkit (qtwebkit)",
+    "description": "Convert html to image using webkit (qtwebkit). Static linked linux binary for amd64 systems.",
+    "keywords": ["image", "thumbnail", "snapshot", "wkhtmltoimage", "convert", "binary"],
     "license": "LGPL Version 3",
     "homepage": "https://code.google.com/p/wkhtmltopdf/",
     "authors": [
