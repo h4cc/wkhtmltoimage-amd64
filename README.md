@@ -1,7 +1,7 @@
 wkhtmltoimage
 ================
 
-This Repo contains the Debian 7.8 (Wheezy) Binarys from the [wkhtmltopdf project](http://wkhtmltopdf.org/).
+This repository contains the Debian 7.8 (Wheezy) binaries from the [wkhtmltopdf project](http://wkhtmltopdf.org/).
 More about the functionality of wkhtmltopdf and wkthmltoimage can be found there.
 
 ## Installation
